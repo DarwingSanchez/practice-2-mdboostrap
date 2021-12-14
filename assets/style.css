@@ -7,3 +7,7 @@
 .custome-logo-size{
     width: 4rem;
 }
+
+.custom-btn-style:hover{
+    background-color: #ffa900;
+}
